@@ -1,4 +1,4 @@
 ---
 layout: post
-title: BHow to Write a Blog
+title: How to Write a Blog
 ---
