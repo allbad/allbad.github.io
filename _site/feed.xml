@@ -7,19 +7,25 @@
     <atom:link href="http://allbad.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>How to Write a Blog</title>
-        <description></description>
-        <pubDate>Wed, 21 Jan 2015 00:00:00 +0000</pubDate>
-        <link>http://allbad.github.io/how-to-write-a-blog/</link>
-        <guid isPermaLink="true">http://allbad.github.io/how-to-write-a-blog/</guid>
-      </item>
-    
-      <item>
-        <title>How To Write A Blog</title>
-        <description></description>
-        <pubDate>Wed, 21 Jan 2015 00:00:00 +0000</pubDate>
-        <link>http://allbad.github.io/how-to-write-a-blog/</link>
-        <guid isPermaLink="true">http://allbad.github.io/how-to-write-a-blog/</guid>
+        <title>A First Blog</title>
+        <description>&lt;p&gt;This will be my personal blog to discuss my reflections on the Udacity
+Front-end Web Developer Nano-degree.&lt;/p&gt;
+
+&lt;p&gt;It is mainly to help me to clarify the points I am learning so expect a few
+mad ramblings.&lt;/p&gt;
+
+&lt;p&gt;I am now learning how to optimise websites having previously covered HTML,
+CSS and JavaScript to build a website mockup and an online resumé followed by
+OOJ to build a web based frogger clone game.&lt;/p&gt;
+
+&lt;p&gt;My first few blog entries may come in a quick flurry as I attempt to update
+entries for the stuff alreaady leaned.&lt;/p&gt;
+
+&lt;p&gt;Bye for now.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Feb 2015 00:00:00 +0000</pubDate>
+        <link>http://allbad.github.io/a-first-blog/</link>
+        <guid isPermaLink="true">http://allbad.github.io/a-first-blog/</guid>
       </item>
     
   </channel>
