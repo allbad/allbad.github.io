@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neil Allgood</title>
+    <description>Web developer</description>
+    <link>http://allbad.github.io</link>
+    <atom:link href="http://allbad.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>How to Write a Blog</title>
+        <description></description>
+        <pubDate>Wed, 21 Jan 2015 00:00:00 +0000</pubDate>
+        <link>http://allbad.github.io/how-to-write-a-blog/</link>
+        <guid isPermaLink="true">http://allbad.github.io/how-to-write-a-blog/</guid>
+      </item>
+    
+      <item>
+        <title>How To Write A Blog</title>
+        <description></description>
+        <pubDate>Wed, 21 Jan 2015 00:00:00 +0000</pubDate>
+        <link>http://allbad.github.io/how-to-write-a-blog/</link>
+        <guid isPermaLink="true">http://allbad.github.io/how-to-write-a-blog/</guid>
+      </item>
+    
+  </channel>
+</rss>
