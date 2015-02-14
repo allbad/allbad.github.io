@@ -53,7 +53,7 @@ Only one codebase is needed regardless of which device is rendering the website.
 
 #### For HTML
 `<meta name="viewport" content="width=device-width">`
-###¢ For CSS (and iPad 3+)
+#### For CSS (and iPad 3+)
 `@media screen and (-webkit-min-device-pixel-ratio: 2) and (min-device-width:
 768px)`
 
