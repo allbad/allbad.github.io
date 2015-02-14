@@ -5,8 +5,7 @@ title: Reflecting on Intro to HTML
 
 Just taking the chance to add my concept deliberations on P1 submission.
 
-What is the DOM?
-----------------
+### What is the DOM?
 
 The DOM provides a programming interface which defines the logical structure
 for HTML and XML documents and defines the way that the documents can be
@@ -15,10 +14,9 @@ built accessed and manipulated.
 [and W3C explanation]
 (http://www.w3.org/TR/DOM-Level-2-Core/introduction.html}
 
-Semantic vs. Non-Semantic
--------------------------
+### Semantic vs. Non-Semantic
 
-Non-semantic tags are those such as <div> and <span> (without the addition of
+Non-semantic tags are those such as `<div>` and `<span>` (without the addition of
 accompanying class or id tags to provide information about its content) and
 provide only detail on how markup should look or be structured and offers no
 meaning or context to the markup that it surrounds.  They would be used when
@@ -28,8 +26,7 @@ such as its hierachy and arrangement within the page.
 Semantic tags, particularly those included in HTML5 such as `<header>` and
 `<footer>` clearly define the meaning and content of the markup they surround.
 
-Layout Principles
------------------
+### Layout Principles
 
 A grid based layout priciple is one in which there is a division of layout
 horizontally or vertically (mainly vertical) which uses guidelines that
@@ -47,22 +44,20 @@ most cases due to horizontal misalignment and shifting as the page is loading.
 The grid layout module will hopefully address this when it gets wide browser
 support.
 
-Responsive Design
------------------
+### Responsive Design
 
 Responsive design is an approach using fluid layout and media queries which
 optimises the layout of a site for various sizes of devices using the same
 code and content without the requirement for separate website properties.
 Only one codebase is needed regardless of which device is rendering the website.
 
-### For HTML
+#### For HTML
 `<meta name="viewport" content="width=device-width">`
-### For CSS (and iPad 3+)
-@media screen and (-webkit-min-device-pixel-ratio: 2) and (min-device-width:
-768px)
+###¢ For CSS (and iPad 3+)
+`@media screen and (-webkit-min-device-pixel-ratio: 2) and (min-device-width:
+768px)`
 
-Separation of Concerns
-----------------------
+### Separation of Concerns
 
 HTML defines the structure and content of a page and CSS the style of that
 page.  Firstly separating these into discreet files makes them smaller and
@@ -71,8 +66,7 @@ of the code without inadvertently affecting unrelated parts.  Thirdly it
 allows for efficiencies of code where one CSS file may be used to style many
 HTML pages without having to repeat all the styling information for each page.
 
-Code Quality
-------------
+### Code Quality
 
 Code that is easy to read is not only easier to understand, debug, and
 maintain by the developer writing it, but also it allows easier collaboration
