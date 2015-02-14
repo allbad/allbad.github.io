@@ -12,7 +12,7 @@ for HTML and XML documents and defines the way that the documents can be
 built accessed and manipulated.
 
 [and W3C explanation]
-(http://www.w3.org/TR/DOM-Level-2-Core/introduction.html}
+(http://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
 
 ### Semantic vs. Non-Semantic
 
