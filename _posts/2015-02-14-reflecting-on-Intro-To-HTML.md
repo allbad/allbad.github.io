@@ -6,6 +6,7 @@ title: Reflecting on Intro to HTML
 Just taking the chance to add my concept deliberations on P1 submission.
 
 What is the DOM?
+----------------
 
 The DOM provides a programming interface which defines the logical structure
 for HTML and XML documents and defines the way that the documents can be
@@ -24,8 +25,8 @@ meaning or context to the markup that it surrounds.  They would be used when
 you need to provide something to differentiate the text from the surrounding
 such as its hierachy and arrangement within the page.
 
-Semantic tags, particularly those included in HTML5 such as <header> and
-<footer> clearly define the meaning and content of the markup they surround.
+Semantic tags, particularly those included in HTML5 such as `<header>` and
+`<footer>` clearly define the meaning and content of the markup they surround.
 
 Layout Principles
 -----------------
@@ -55,7 +56,7 @@ code and content without the requirement for separate website properties.
 Only one codebase is needed regardless of which device is rendering the website.
 
 ### For HTML
-<meta name="viewport" content="width=device-width">
+`<meta name="viewport" content="width=device-width">`
 ### For CSS (and iPad 3+)
 @media screen and (-webkit-min-device-pixel-ratio: 2) and (min-device-width:
 768px)
