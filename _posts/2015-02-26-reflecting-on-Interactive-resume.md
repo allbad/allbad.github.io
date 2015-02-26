@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Reflecting P2 - Interactive Resume
+title: Reflecting on P2 - Interactive Resume
 ---
 
 Just taking the chance to add my concept deliberations on P2 submission
-which covers JavaScript Basics
+which covers JavaScript Basics.
 
-### Where does JavaScript fit with delivering web pages?  What can it do that HTML/CSS can't?
+###What can JavaScript do that HTML/CSS can't?
 
 HTML is a markup language which defines the content and structure of web
 pages.  CSS is used for the styling of those pages.  Both of these are static
